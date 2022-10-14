@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+
+}
+body{
+  background-color: black;
+}
+
+.iconsWrap{
+  position:absolute;
+right:150%;
+display: flex;
+}
+.circle :hover,.pen:hover,.can:hover{
+  
+  color: cadetblue;
+}
+table{
+margin: 50px;
+  position: relative;
+ top: 50px;
+}
+
+button{
+  position: relative;
+  right:10%;
+
+}
